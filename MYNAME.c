@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 main() {
-printf("ªü­Ù\n");
+printf("é˜¿å€ª\n");
 }
